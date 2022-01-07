@@ -10,7 +10,7 @@
 
 SKIP_FRAMES     = 1                     ; skip some frames
 USE_286         = 1                     ; use 186+ opcodes
-;USE_DOSBOX      = 1                     ; DOSBOX or real ISA_VG75
+USE_DOSBOX      = 1                     ; DOSBOX or real ISA_VG75
 ;HOOK_08_INSTEAD_1C = 1                  ; Hook Int 08h instead Int 1Ch
 
 JUMPS
