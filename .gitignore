@@ -1,7 +1,6 @@
 *.obj
 *.map
 *.exe
-*.com
 *.doc
 *.ovl
 *.cga
